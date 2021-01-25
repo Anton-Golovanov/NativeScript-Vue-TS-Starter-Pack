@@ -1,0 +1,47 @@
+{
+  "name": "mobile",
+  "main": "main.js",
+  "version": "1.0.0",
+  "description": "Mobile application",
+  "author": "Anton Golovanov <anton@golovanov.info>",
+  "license": "MIT",
+  "dependencies": {
+    "@nativescript-community/ui-barcodeview": "^3.5.2",
+    "@nativescript/core": "^7.1.0",
+    "@vue/devtools": "^5.3.3",
+    "axios": "^0.21.1",
+    "date-fns": "^2.16.1",
+    "nativescript-qr-generator": "^2.0.0",
+    "nativescript-socketio": "^3.3.1",
+    "nativescript-toasty": "^3.0.0-alpha.2",
+    "nativescript-ui-calendar": "^7.0.2",
+    "nativescript-ui-sidedrawer": "^9.0.3",
+    "nativescript-vue": "^2.8.3",
+    "nativescript-vue-devtools": "^1.4.0",
+    "nativescript-vue-navigator": "^1.2.0",
+    "validator": "^13.5.2",
+    "vue-i18n": "^8.22.2",
+    "vuex": "^3.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@nativescript/android": "7.0.1",
+    "@nativescript/types": "^7.1.0",
+    "@nativescript/webpack": "^3.0.4",
+    "@types/node": "^14.14.19",
+    "babel-loader": "^8.2.2",
+    "nativescript-vue-template-compiler": "^2.8.3",
+    "nativescript-worker-loader": "~0.12.1",
+    "prettier": "^2.2.1",
+    "sass": "^1.32.0",
+    "typescript": "^3.9.7",
+    "vue": "^2.6.12",
+    "vue-loader": "^15.9.6",
+    "vue-typed-mixins": "^0.2.0"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "semi": true
+  }
+}

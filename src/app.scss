@@ -1,0 +1,17 @@
+// Global SCSS styling
+// @see https://docs.nativescript.org/ui/styling
+
+@import 'variables';
+
+.h1 {
+  font-size: $h1;
+  text-transform: capitalize;
+}
+.h2 {
+  font-size: $h2;
+  text-transform: capitalize;
+}
+.h3 {
+  font-size: $h3;
+  text-transform: capitalize;
+}

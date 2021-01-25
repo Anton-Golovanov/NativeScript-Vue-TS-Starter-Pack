@@ -1,0 +1,6 @@
+{
+  "loggingEnabled": true,
+  "loggingLevel": "Debug",
+
+  "coreDomain": "https://test.com:8081"
+}
